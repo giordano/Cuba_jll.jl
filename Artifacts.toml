@@ -1,0 +1,13 @@
+[[Cuba]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f5f49bad39e6fca9bda3c73f1d74b586739ee4c"
+julia_version = "1.8.1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+libstdcxx_version = "3.4.29"
+os = "linux"
+
+    [[Cuba.download]]
+    sha256 = "e69717ee24ae817f9ffe57eb7e42b693c1e01b38c67659602990590fb477c115"
+    url = "https://github.com/giordano/Cuba_jll.jl/releases/download/Cuba-v4.2.2+2/Cuba.v4.2.2.x86_64-linux-gnu-libgfortran5-cxx11-libstdcxx29-julia_version+1.8.1.tar.gz"
